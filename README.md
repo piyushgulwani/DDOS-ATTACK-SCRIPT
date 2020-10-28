@@ -6,6 +6,6 @@
 ### *Guidance*
   - ### *Install Requirements by `pip install -r requirements.txt`*
   - ### *Modules Used `pythonping` for ping test*
-  - ### *Run it using `python3 main.py`
+  - ### *Run it using `python3 main.py`*
   
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
